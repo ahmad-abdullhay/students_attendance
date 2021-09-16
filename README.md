@@ -1,7 +1,7 @@
 # students
 
 A new Flutter project.
-
+![Alt text](https://postimg.cc/nj2Xd9R8 "screenshot")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
